@@ -47,4 +47,8 @@ calibre binaries and installers for all the platforms calibre supports.
 
 [![Packaging Status](https://repology.org/badge/vertical-allrepos/calibre.svg)](https://repology.org/project/calibre/versions)
 
+
+crap
+
 Stuff
+stuff
